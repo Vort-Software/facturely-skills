@@ -1,0 +1,17 @@
+{
+  "name": "facturely",
+  "owner": {
+    "name": "Vort Software LLC",
+    "url": "https://facturely.io"
+  },
+  "metadata": {
+    "description": "Claude Code skills for moving XSL-FO projects to Facturely"
+  },
+  "plugins": [
+    {
+      "name": "facturely-migration",
+      "source": "./plugins/facturely-migration",
+      "description": "Migrate XSL-FO projects from Apache FOP to Facturely: inventory, fox: extensions, defaults, fonts, calling code, output comparison."
+    }
+  ]
+}

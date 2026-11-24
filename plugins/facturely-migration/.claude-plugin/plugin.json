@@ -1,0 +1,19 @@
+{
+  "name": "facturely-migration",
+  "version": "1.0.0",
+  "description": "Migrate XSL-FO projects from Apache FOP to Facturely (Facturely.XmlServer for .NET or the Facturely cloud API).",
+  "author": {
+    "name": "Vort Software LLC",
+    "url": "https://facturely.io"
+  },
+  "homepage": "https://facturely.io",
+  "license": "MIT",
+  "keywords": [
+    "xsl-fo",
+    "apache-fop",
+    "pdf",
+    "pdfa",
+    "e-invoicing",
+    "migration"
+  ]
+}
